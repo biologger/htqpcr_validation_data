@@ -1,0 +1,25 @@
+Contaminant,Species
+S01 Control (Day 1),Clostridium tyrobutyricum
+S02 $Lb. brevis$,Enterococcus durans
+S03 $Lb. casei$,Enterococcus faecalis
+S04 $Lb. coryniformis$,Enterococcus faecium
+S05 $Lb. curvatus$,Lactobacillus brevis
+S06 Control (Day 2),Lactobacillus casei
+S07 $Lb. helveticus$,Lactobacillus coryniformis
+S08 $Lb. parabuchneri$,Lactobacillus curvatus
+S09 $Lb. paracasei$,Lactobacillus delbrueckii
+S10 $Lb. plantarum$,Lactobacillus fermentum
+S11 Control (Day 3),Lactobacillus helveticus
+S12 $Lb. rhamnosus$,Lactobacillus parabuchneri
+S13 $Lb. sakei$,Lactobacillus paracasei
+S14 $Ln. mesenteroides$,Lactobacillus paraplantarum
+S15 $Pd. acidilactici$,Lactobacillus plantarum
+S16 $Pd. pentosaceus$,Lactobacillus rhamnosus
+S17 Control (Day 4),Lactobacillus sakei
+S18 $Pr. freudenreichii$,Lactococcus lactis subsp. cremoris
+S19 $Lb. fermentum$,Lactococcus lactis subsp. lactis
+,Leuconostoc mesenteroides
+,Pediococcus acidilactici
+,Pediococcus pentosaceus
+,Propionibacterium freudenreichii
+,Streptococcus thermophilus

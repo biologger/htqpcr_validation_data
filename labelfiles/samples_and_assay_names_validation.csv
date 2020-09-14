@@ -1,0 +1,171 @@
+Sample_Name,Assay_Name
+Clostridium tyrobutyricum DSM 2637 (1),Cltyrob_g4184 A01
+Clostridium tyrobutyricum DSM 2637 (2),Cltyrob_g4184 A02
+Clostridium tyrobutyricum FAM 1550 (1),Cltyrob_g4184 A03
+Clostridium tyrobutyricum FAM 1550 (2),Ecduran_g1414 A04
+Clostridium tyrobutyricum FAM 22550 (1),Ecduran_g1414 A05
+Clostridium tyrobutyricum FAM 22550 (2),Ecduran_g1414 A06
+Enterococcus durans DSM 20633 (1),Ecfaeca_acuI A07
+Enterococcus durans DSM 20633 (2),Ecfaeca_acuI A08
+Enterococcus durans FAM 19822 (1),Ecfaeca_acuI A09
+Enterococcus durans FAM 19822 (2),Ecfaeci_cysS A10
+Enterococcus durans FAM 22256 (1),Ecfaeci_cysS A11
+Enterococcus durans FAM 22256 (2),Ecfaeci_cysS A12
+Enterococcus faecalis ATCC 19433 (1),Lbbrevi_g2037-3 A13
+Enterococcus faecalis ATCC 19433 (2),Lbbrevi_g2037-3 A14
+Enterococcus faecalis DSM 20376 (1),Lbbrevi_g2037-3 A15
+Enterococcus faecalis DSM 20376 (2),Lbcasei_g4591 A16
+Enterococcus faecalis FAM 22123 (1),Lbcasei_g4591 A17
+Enterococcus faecalis FAM 22123 (2),Lbcasei_g4591 A18
+Enterococcus faecium DSM 20477 (1),Lbcoryn_aroE A19
+Enterococcus faecium DSM 20477 (2),Lbcoryn_aroE A20
+Enterococcus faecium FAM 1711 (1),Lbcoryn_aroE A21
+Enterococcus faecium FAM 1711 (2),Lbcurva_g1171 A22
+Enterococcus faecium FAM 19316 (1),Lbcurva_g1171 A23
+Enterococcus faecium FAM 19316 (2),Lbcurva_g1171 A24
+Lactobacillus brevis CCUG 33268 (1),Lbdelbr_g3904 A25
+Lactobacillus brevis CCUG 33268 (2),Lbdelbr_g3904 A26
+Lactobacillus brevis CCUG 48612 (1),Lbdelbr_g3904 A27
+Lactobacillus brevis CCUG 48612 (2),Lbferme_coiA A28
+Lactobacillus brevis DSM 20054 (1),Lbferme_coiA A29
+Lactobacillus brevis DSM 20054 (2),Lbferme_coiA A30
+Lactobacillus casei ATCC 393 (1),Lbhelve_pheS A31
+Lactobacillus casei ATCC 393 (2),Lbhelve_pheS A32
+Lactobacillus casei FAM 20446 (1),Lbhelve_pheS A33
+Lactobacillus casei FAM 20446 (2),Lbparab_g519 A34
+Lactobacillus coryniformis DSM 20001 (1),Lbparab_g519 A35
+Lactobacillus coryniformis DSM 20001 (2),Lbparab_g519 A36
+Lactobacillus coryniformis DSM 20004 (1),Lbparac_mutS2 A37
+Lactobacillus coryniformis DSM 20004 (2),Lbparac_mutS2 A38
+Lactobacillus coryniformis FAM 20761 (1),Lbparac_mutS2 A39
+Lactobacillus coryniformis FAM 20761 (2),Lbparap_g4429 A40
+Lactobacillus curvatus DSM 20019 (1),Lbparap_g4429 A41
+Lactobacillus curvatus DSM 20019 (2),Lbparap_g4429 A42
+Lactobacillus curvatus FAM 18731 (1),Lbplant_mutY A45
+Lactobacillus curvatus FAM 18731 (2),Lbrhamn_trpD A46
+Lactobacillus curvatus FAM 18867 (1),Lbrhamn_trpD A47
+Lactobacillus curvatus FAM 18867 (2),Lbrhamn_trpD A48
+Lactobacillus delbrueckii DSM 20072 (1),Lbsakei_g605 A49
+Lactobacillus delbrueckii DSM 20072 (2),Lbsakei_g605 A50
+Lactobacillus delbrueckii DSM 20074 (1),Lbsakei_g605 A51
+Lactobacillus delbrueckii DSM 20074 (2),Lclaccre_mtlD-2 A55
+Lactobacillus delbrueckii DSM 20081 (1),Lclaccre_mtlD-2 A56
+Lactobacillus delbrueckii DSM 20081 (2),Lclaccre_mtlD-2 A57
+Lactobacillus fermentum DSM 20052 (1),Lclaclac_tenA A52
+Lactobacillus fermentum DSM 20052 (2),Lclaclac_tenA A53
+Lactobacillus fermentum FAM 11660 (1),Lclaclac_tenA A54
+Lactobacillus fermentum FAM 11660 (2),Lnmesen_purL A58
+Lactobacillus fermentum FAM 20347 (1),Lnmesen_purL A59
+Lactobacillus fermentum FAM 20347 (2),Lnmesen_purL A60
+Lactobacillus helveticus DSM 20075 (1),Pdacidi_asnS A64
+Lactobacillus helveticus DSM 20075 (2),Pdacidi_asnS A65
+Lactobacillus helveticus FAM 13019 (1),Pdacidi_asnS A66
+Lactobacillus helveticus FAM 13019 (2),Pdpento_prmC A67
+Lactobacillus helveticus FAM 19190 (1),Pdpento_prmC A68
+Lactobacillus helveticus FAM 19190 (2),Pdpento_prmC A69
+Lactobacillus parabuchneri DSM 5707 (1),Prfreud_g4997 A61
+Lactobacillus parabuchneri DSM 5707 (2),Prfreud_g4997 A62
+Lactobacillus parabuchneri FAM 21731 (1),Prfreud_g4997 A63
+Lactobacillus parabuchneri FAM 21731 (2),Sctherm_yeeO A70
+Lactobacillus parabuchneri FAM 21823 (1),Sctherm_yeeO A94
+Lactobacillus parabuchneri FAM 21823 (2),Sctherm_yeeO A95
+Lactobacillus paracasei DSM 5622 (1),
+Lactobacillus paracasei DSM 5622 (2),
+Lactobacillus paracasei FAM 18133.2 (1),
+Lactobacillus paracasei FAM 18133.2 (2),
+Lactobacillus paracasei FAM 19331 (1),
+Lactobacillus paracasei FAM 19331 (2),
+Lactobacillus paraplantarum DSM 10641 (1),
+Lactobacillus paraplantarum DSM 10641 (2),
+Lactobacillus paraplantarum DSM 10667 (1),
+Lactobacillus paraplantarum DSM 10667 (2),
+Lactobacillus paraplantarum FAM 18197 (1),
+Lactobacillus paraplantarum FAM 18197 (2),
+Lactobacillus plantarum ATCC 8014 (1),
+Lactobacillus plantarum ATCC 8014 (2),
+Lactobacillus plantarum DSM 20174 (1),
+Lactobacillus plantarum DSM 20174 (2),
+Lactobacillus plantarum FAM 18858 (1),
+Lactobacillus plantarum FAM 18858 (2),
+Lactobacillus rhamnosus DSM 20021 (1),
+Lactobacillus rhamnosus DSM 20021 (2),
+Lactobacillus rhamnosus FAM 19984 (1),
+Lactobacillus rhamnosus FAM 19984 (2),
+Lactobacillus rhamnosus FAM 22674 (1),
+Lactobacillus rhamnosus FAM 22674 (2),
+Lactobacillus sakei DSM 15831 (1),
+Lactobacillus sakei DSM 15831 (2),
+Lactobacillus sakei DSM 20017 (1),
+Lactobacillus sakei DSM 20017 (2),
+Lactobacillus sakei FAM 14960 (1),
+Lactobacillus sakei FAM 14960 (2),
+Lactococcus lactis subsp. cremoris DSM 20069 (1),
+Lactococcus lactis subsp. cremoris DSM 20069 (2),
+Lactococcus lactis subsp. cremoris FAM 17873 (1),
+Lactococcus lactis subsp. cremoris FAM 17873 (2),
+Lactococcus lactis subsp. cremoris FAM 23216 (1),
+Lactococcus lactis subsp. cremoris FAM 23216 (2),
+Lactococcus lactis subsp. lactis ATCC 19435 (1),
+Lactococcus lactis subsp. lactis ATCC 19435 (2),
+Lactococcus lactis subsp. lactis FAM 17950 (1),
+Lactococcus lactis subsp. lactis FAM 17950 (2),
+Lactococcus lactis subsp. lactis FAM 23201 (1),
+Lactococcus lactis subsp. lactis FAM 23201 (2),
+Leuconostoc mesenteroides DSM 20241 (1),
+Leuconostoc mesenteroides DSM 20241 (2),
+Leuconostoc mesenteroides DSM 20343 (1),
+Leuconostoc mesenteroides DSM 20343 (2),
+Leuconostoc mesenteroides DSM 20346 (1),
+Leuconostoc mesenteroides DSM 20346 (2),
+Leuconostoc mesenteroides DSM 20484 (1),
+Leuconostoc mesenteroides DSM 20484 (2),
+Pediococcus acidilactici DSM 20284 (1),
+Pediococcus acidilactici DSM 20284 (2),
+Pediococcus acidilactici FAM 13881 (1),
+Pediococcus acidilactici FAM 13881 (2),
+Pediococcus acidilactici FAM 19158 (1),
+Pediococcus acidilactici FAM 19158 (2),
+Pediococcus pentosaceus DSM 20280 (1),
+Pediococcus pentosaceus DSM 20280 (2),
+Pediococcus pentosaceus DSM 20333 (1),
+Pediococcus pentosaceus DSM 20333 (2),
+Pediococcus pentosaceus DSM 20336 (1),
+Pediococcus pentosaceus DSM 20336 (2),
+Propionibacterium freudenreichii DSM 20271 (1),
+Propionibacterium freudenreichii DSM 20271 (2),
+Propionibacterium freudenreichii FAM 15217.1 (1),
+Propionibacterium freudenreichii FAM 15217.1 (2),
+Propionibacterium freudenreichii FAM 15346 (1),
+Propionibacterium freudenreichii FAM 15346 (2),
+Streptococcus thermophilus DSM 20617 (1),
+Streptococcus thermophilus DSM 20617 (2),
+Streptococcus thermophilus FAM 10792 (1),
+Streptococcus thermophilus FAM 10792 (2),
+Streptococcus thermophilus FAM 21476 (1),
+Streptococcus thermophilus FAM 21476 (2),
+Acidipropionibacterium acidipropionici DSM 4900 (1),Cltyrob_g4184 A01
+Acidipropionibacterium acidipropionici DSM 4900 (2),Cltyrob_g4184 A02
+Acidipropionibacterium jensenii DSM 20535 (1),Cltyrob_g4184 A03
+Acidipropionibacterium jensenii DSM 20535 (2),Ecduran_g1414 A04
+Acidipropionibacterium thoenii DSM 20276 (1),Ecduran_g1414 A05
+Acidipropionibacterium thoenii DSM 20276 (2),Ecduran_g1414 A06
+Clostridium beijerinckii DSM 791 (1),Ecfaeca_acuI A07
+Clostridium beijerinckii DSM 791 (2),Ecfaeca_acuI A08
+Clostridium butyricum DSM 10702 (1),Ecfaeca_acuI A09
+Clostridium butyricum DSM 10702 (2),Ecfaeci_cysS A10
+Clostridium sporogenes DSM 795 (1),Ecfaeci_cysS A11
+Clostridium sporogenes DSM 795 (2),Ecfaeci_cysS A12
+Lactobacillus buchneri DSM 20057 (1),Lbplant_mutY A43
+Lactobacillus buchneri DSM 20057 (2),Lbplant_mutY A44
+Leuconostoc carnosum DSM 5576 (1),
+Leuconostoc carnosum DSM 5576 (2),
+Leuconostoc lactis DSM 20202 (1),
+Leuconostoc lactis DSM 20202 (2),
+Leuconostoc pseudomesenteroides DSM 20193 (1),
+Leuconostoc pseudomesenteroides DSM 20193 (2),
+Pediococcus stilesii DSM 18001 (1),
+Pediococcus stilesii DSM 18001 (2),
+Streptococcus salivarius DSM 20560 (1),
+Streptococcus salivarius DSM 20560 (2),
+NTC (TE) (1),
+NTC (TE) (2),
