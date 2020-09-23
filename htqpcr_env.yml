@@ -9,3 +9,4 @@ dependencies:
   - seaborn==0.10.1
   - statsmodels
   - notebook
+  - pillow
