@@ -521,11 +521,11 @@ def change_assaynames_to_species(df, conf):
 def draw_heatmap(tablefile, conf, filename, final_plot=False, annotation=False, mode="cq", color=False):
     modedict = {
         "copy": {
-                "vmin": 3, "vmax": 8, "cbarlabel": "Log copies / \u03BCl", "extend": "min"},
+                "vmin": 3, "vmax": 8, "cbarlabel": "Log copies/\u03BCl", "extend": "min"},
         "cq": {
                 "vmin": 5, "vmax": 35, "cbarlabel": "Cq values", "extend": "neither"},
         "preamp": {
-                "vmin": 3, "vmax": 8, "cbarlabel": "Log copies / \u03BCl", "extend": "min"},
+                "vmin": 3, "vmax": 8, "cbarlabel": "Log copies/\u03BCl", "extend": "min"},
         "deltact": {
                 "vmin": 0, "vmax": 16, "cbarlabel": "\u0394 Cq", "extend": "neither"}}
 
