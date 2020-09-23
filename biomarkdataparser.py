@@ -62,7 +62,7 @@ def commandline():
         help="Draw standard curves")
 
     parser.add_argument(
-        "-f", "--gformat", type=str, nargs="*", choices=["eps", "png"],
+        "-f", "--gformat", type=str, nargs="*", choices=["eps", "png", "jpg"],
         default=["eps"],
         help="Picture format")
 
@@ -124,6 +124,10 @@ def commandline():
     parser.add_argument(
         "--outfile", type=str, help="Name of the Figure")
 
+    parser.add_argument(
+        "--axeslabels", action="store_true", default=False,
+        help="Display axes labels in heatmaps")
+
 
     return parser
 
@@ -137,7 +141,7 @@ class config:
             transpose, deltact, italic, figsize,
             legendposition, preamp, datatoplot,
             color, rawdata, reverse,
-            outfile):
+            outfile, axeslabels):
         self.outdir = outdir
         self.validation = validation
         self.replicates = replicates
@@ -162,6 +166,7 @@ class config:
         self.rawdata = rawdata
         self.reverse = reverse
         self.outfile = outfile
+        self.axeslabels = axeslabels
 
 
 def get_log(x):
@@ -608,24 +613,26 @@ def draw_heatmap(tablefile, conf, filename, final_plot=False, annotation=False, 
     ax.yaxis.tick_right()
     ax.yaxis.set_label_position('right')
 
-    if conf.replicates == "assay":
-        xlabel = "Assays n=" + str(conf.number)
-        ylabel = "Samples"
-    elif conf.replicates == "sample":
-        xlabel = "Assays"
-        ylabel = "Samples n=" + str(conf.number)
-    else:
-        xlabel = "Assays"
-        ylabel = "Samples"
+    if conf.axeslabels:
+        if conf.replicates == "assay":
+            xlabel = "Assays\n(n=" + str(conf.number) + ")"
+            ylabel = ""
+        elif conf.replicates == "sample":
+            xlabel = "Assays"
+            ylabel = "(n=" + str(conf.number) + ")"
+        else:
+            xlabel = "Assays"
+            ylabel = ""
+        labels = [xlabel, ylabel]
 
-    labels = [xlabel, ylabel]
-
-    if conf.transpose == True:
-        ax.set_xlabel(labels[1], fontsize=10)
-        ax.set_ylabel(labels[0], fontsize=10)
+        if conf.transpose == True:
+            ax.set_xlabel(labels[1], fontsize=10)
+            ax.set_ylabel(labels[0], fontsize=10)
+        else:
+            ax.set_xlabel(labels[0], fontsize=10)
+            ax.set_ylabel(labels[1], fontsize=10)
     else:
-        ax.set_xlabel(labels[0], fontsize=10)
-        ax.set_ylabel(labels[1], fontsize=10)
+        ax.set_ylabel("")
 
     ax.set_title(conf.title, fontsize=12)
 
@@ -871,7 +878,8 @@ def main():
             args.standardcurves, args.gformat, args.labelfile, args.title,
             args.assay_species, args.transpose, args.deltact, args.italic,
             args.figsize, args.legendposition, args.preamp, args.datatoplot,
-            args.color, args.rawdata, args.reverse, args.outfile)
+            args.color, args.rawdata, args.reverse, args.outfile,
+            args.axeslabels)
 
     create_directory(conf.outdir)
     df = read_from_export(inputfile)
