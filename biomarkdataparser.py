@@ -63,7 +63,7 @@ def commandline():
 
     parser.add_argument(
         "-f", "--gformat", type=str, nargs="*", choices=["eps", "png", "jpg"],
-        default=["eps"],
+        default=["png"],
         help="Picture format")
 
     parser.add_argument(
@@ -81,7 +81,7 @@ def commandline():
 
     parser.add_argument(
         "--transpose", action="store_true",
-        help="change x and y axis, attention change columns in labelfile manually")
+        help="Flip x and y axes in heatmap (does not affect labelfiles)")
 
     parser.add_argument(
         "--italic", type=str, nargs="*", choices=["x", "y"], default=False,
@@ -89,11 +89,11 @@ def commandline():
 
     parser.add_argument(
         "--figsize", type=str, nargs="*", default=None,
-        help="Figure size in format: Width Height")
+        help="Figure size in inches, format: width height")
 
     parser.add_argument(
         "--legendposition", type=str, nargs="*", default=False,
-        help="Set legend position, format: X Y")
+        help="Adjust legend position, format: x y, or x y width height")
 
     parser.add_argument(
         "--deltact", type=str, nargs="*", default=False,
@@ -101,7 +101,7 @@ def commandline():
 
     parser.add_argument(
         "--preamp", type=str, nargs="*", default=False,
-        help="Include qualitative preamp data in results"
+        help="Include qualitative preamp data in results "
         "First element preamp id, second element no preamp id")
 
     parser.add_argument(
