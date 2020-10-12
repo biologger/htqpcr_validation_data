@@ -1,23 +1,23 @@
 Contaminant,Species
 S01 Control (Day 1),Clostridium tyrobutyricum
-S02 $Lb. brevis$,Enterococcus durans
-S03 $Lb. casei$,Enterococcus faecalis
-S04 $Lb. coryniformis$,Enterococcus faecium
-S05 $Lb. curvatus$,Lactobacillus brevis
-S06 Control (Day 2),Lactobacillus casei
-S07 $Lb. helveticus$,Lactobacillus coryniformis
-S08 $Lb. parabuchneri$,Lactobacillus curvatus
-S09 $Lb. paracasei$,Lactobacillus delbrueckii
-S10 $Lb. plantarum$,Lactobacillus fermentum
+S02 $L. brevis$,Enterococcus durans
+S03 $L. casei$,Enterococcus faecalis
+S04 $L. coryniformis$,Enterococcus faecium
+S05 $L. curvatus$,Levilactobacillus brevis
+S06 Control (Day 2),Lacticaseibacillus casei
+S07 $L. helveticus$,Loigolactobacillus coryniformis
+S08 $L. parabuchneri$,Latilactobacillus curvatus
+S09 $L. paracasei$,Lactobacillus delbrueckii
+S10 $L. plantarum$,Limosilactobacillus fermentum
 S11 Control (Day 3),Lactobacillus helveticus
-S12 $Lb. rhamnosus$,Lactobacillus parabuchneri
-S13 $Lb. sakei$,Lactobacillus paracasei
-S14 $Ln. mesenteroides$,Lactobacillus paraplantarum
-S15 $Pd. acidilactici$,Lactobacillus plantarum
-S16 $Pd. pentosaceus$,Lactobacillus rhamnosus
-S17 Control (Day 4),Lactobacillus sakei
+S12 $L. rhamnosus$,Lentilactobacillus parabuchneri
+S13 $L. sakei$,Lacticaseibacillus paracasei
+S14 $Ln. mesenteroides$,Lactiplantibacillus paraplantarum
+S15 $Pd. acidilactici$,Lactiplantibacillus plantarum
+S16 $Pd. pentosaceus$,Lacticaseibacillus rhamnosus
+S17 Control (Day 4),Latilactobacillus sakei
 S18 $Pr. freudenreichii$,Lactococcus lactis subsp. cremoris
-S19 $Lb. fermentum$,Lactococcus lactis subsp. lactis
+S19 $L. fermentum$,Lactococcus lactis subsp. lactis
 ,Leuconostoc mesenteroides
 ,Pediococcus acidilactici
 ,Pediococcus pentosaceus
